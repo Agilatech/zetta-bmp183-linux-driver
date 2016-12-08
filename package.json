@@ -1,0 +1,28 @@
+{
+  "name": "@agilatech/zetta-bmp183-linux-driver",
+  "version": "0.8.0",
+  "description": "Zetta BMP183 driver for Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "zetta-device": "*",
+    "zetta-scout": "*",
+    "@agilatech/bmp183": "*"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "zetta",
+    "sensor",
+    "pressure",
+    "barometric",
+    "BMP183",
+    "temperature",
+    "beaglebone",
+    "raspberry pi"
+  ]
+}

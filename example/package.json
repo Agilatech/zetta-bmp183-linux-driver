@@ -1,0 +1,16 @@
+{
+  "name": "zetta-bmp183-linux-example",
+  "version": "0.1.0",
+  "description": "an example for using the bmp183 device",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Scott Erholm <scott@agilatech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zetta": "*",
+    "@agilatech/bmp183": "*"
+  }
+}

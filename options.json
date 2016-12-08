@@ -1,0 +1,7 @@
+{
+    "bus": "/dev/spidev1.0",
+    "elevation": 0,
+    "mode": 3,
+    "chronPeriod": 60000,
+    "streamPeriod": 10000
+}
